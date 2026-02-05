@@ -1,1 +1,16 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial;
+  background-color: #eaf4ea;
+  color: #2f3e2f;
+}
 
+h1, h2 {
+  color: #3f6f4f;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 12px;
+  margin: 24px 0;
+}
