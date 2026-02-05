@@ -1,3 +1,7 @@
+---
+layout: default
+title: 我的博客
+---
 <link rel="stylesheet" href="/style.css">
 
 # 我的博客
